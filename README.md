@@ -3,14 +3,16 @@
 
 ### About me
 
-:four_leaf_clover: I’m currently learning Basic Programming skills like Java, Spring, Spring Boot, Python, ReactJS, HTML, CSS and Javascript.<br/>
-:pencil: [젤리코드 github blog](https://jellycodes.github.io/) 공부하면서 정리해두는 공간입니다.
-📫 How to reach me: jylee7942@gmail.com <br/>
+- :four_leaf_clover: I’m currently learning Basic Programming skills like Java, Spring, Spring Boot, Python, ReactJS, HTML, CSS and Javascript.<br/>
+
+- :pencil: [젤리코드 github blog](https://jellycodes.github.io/) 공부하면서 정리해두는 공간입니다.
+
+- ✍️ How to reach me: jylee7942@gmail.com <br/>
 
 ### Interest
 
-Web development <br/>
-BackEnd & FrontEnd are interesting. <br/>
+- Web development <br/>
+- BackEnd & FrontEnd are interesting. <br/>
 
 ### Latest Projects
 [BodyCheck🤾‍♀️](https://github.com/jellycodes/MidProject_BodyCheck.git)
