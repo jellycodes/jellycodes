@@ -16,6 +16,7 @@
 
 ### Latest Projects
 [BodyCheck🤾‍♀️](https://github.com/jellycodes/MidProject_BodyCheck.git)
+[mytraview🎆](https://github.com/SEO2317/mytraview.git)
 
 ### Languages and Tools
 
