@@ -16,8 +16,11 @@
 
 ### Latest Projects
 [SubwayAndWeather🚊⛅](https://github.com/jellycodes/subwayAndWeather.git)
+
 [push-up💪](https://github.com/jellycodes/correct-or-incorrect-push-up.git)
+
 [mytraview🎆](https://github.com/SEO2317/mytraview.git)
+
 [BodyCheck🤾‍♀️](https://github.com/jellycodes/MidProject_BodyCheck.git)
 
 
