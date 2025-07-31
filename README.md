@@ -13,6 +13,7 @@
 
 - Web development <br/>
 - BackEnd & FrontEnd are interesting. <br/>
+- AI and AIoT are usually using. <br/>
 
 ### Latest Projects
 [SubwayAndWeather🚊⛅](https://github.com/jellycodes/subwayAndWeather.git)
